@@ -69,7 +69,7 @@ $(document).ready( function (){
         var n5 = parseInt(n5);
 
         //se muestra en un alert el promedio y la suma
-        alert("1. El resultado de la suma de los 5 numeros ingresados son:"+" "+(n1+n2+n3+n4+n5)+"\n"
-        +"2. El resultado del promedio de los 5 numeros ingresados son:"+" "+((n1+n2+n3+n4+n5)/5));
+        alert("1. El resultado de la suma de los 5 numeros ingresados es:"+" "+(n1+n2+n3+n4+n5)+"\n"
+        +"2. El resultado del promedio de los 5 numeros ingresados es:"+" "+((n1+n2+n3+n4+n5)/5));
     });
 });
